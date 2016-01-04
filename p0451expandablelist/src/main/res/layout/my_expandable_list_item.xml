@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/expandable_tv_main"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/listPreferredItemHeight"
+        android:layout_weight="1"
+        android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        android:gravity="center_vertical">
+
+    </TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="?android:attr/listPreferredItemHeight"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/expandable_tv_second"
+            android:textSize="12dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/expandable_tv_third"
+            android:textSize="14dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="bottom"/>
+
+
+    </LinearLayout>
+</LinearLayout>

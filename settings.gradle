@@ -1,1 +1,1 @@
-include ':app', ':p0441simplelistevents'
+include ':app', ':p0441simplelistevents', ':p0451expandablelist'

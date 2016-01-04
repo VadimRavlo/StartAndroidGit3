@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/StartAndroidGit3.iml" filepath="$PROJECT_DIR$/StartAndroidGit3.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0441simplelistevents/p0441simplelistevents.iml" filepath="$PROJECT_DIR$/p0441simplelistevents/p0441simplelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" filepath="$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" />
     </modules>
   </component>
 </project>

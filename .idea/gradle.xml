@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p0441simplelistevents" />
+            <option value="$PROJECT_DIR$/p0451expandablelist" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
