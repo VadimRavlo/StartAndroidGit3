@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0441simplelistevents/p0441simplelistevents.iml" filepath="$PROJECT_DIR$/p0441simplelistevents/p0441simplelistevents.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" filepath="$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0461expendablelistevent/p0461expendablelistevent.iml" filepath="$PROJECT_DIR$/p0461expendablelistevent/p0461expendablelistevent.iml" />
     </modules>
   </component>
 </project>
