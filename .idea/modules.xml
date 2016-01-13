@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" filepath="$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0461expendablelistevent/p0461expendablelistevent.iml" filepath="$PROJECT_DIR$/p0461expendablelistevent/p0461expendablelistevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0481simpleadapter/p0481simpleadapter.iml" filepath="$PROJECT_DIR$/p0481simpleadapter/p0481simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0491simpleadaptercustom1/p0491simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/p0491simpleadaptercustom1/p0491simpleadaptercustom1.iml" />
     </modules>
   </component>
 </project>
