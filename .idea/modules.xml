@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0491simpleadaptercustom1/p0491simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/p0491simpleadaptercustom1/p0491simpleadaptercustom1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0871asynctaskparams/p0871asynctaskparams.iml" filepath="$PROJECT_DIR$/p0871asynctaskparams/p0871asynctaskparams.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0881asynctaskresult/p0881asynctaskresult.iml" filepath="$PROJECT_DIR$/p0881asynctaskresult/p0881asynctaskresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0891asynctaskcancel/p0891asynctaskcancel.iml" filepath="$PROJECT_DIR$/p0891asynctaskcancel/p0891asynctaskcancel.iml" />
     </modules>
   </component>
 </project>

@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/p0491simpleadaptercustom1" />
             <option value="$PROJECT_DIR$/p0871asynctaskparams" />
             <option value="$PROJECT_DIR$/p0881asynctaskresult" />
+            <option value="$PROJECT_DIR$/p0891asynctaskcancel" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

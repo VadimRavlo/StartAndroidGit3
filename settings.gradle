@@ -1,1 +1,1 @@
-include ':app', ':p0441simplelistevents', ':p0451expandablelist', ':p0461expendablelistevent', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0871asynctaskparams', ':p0881asynctaskresult'
+include ':app', ':p0441simplelistevents', ':p0451expandablelist', ':p0461expendablelistevent', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0871asynctaskparams', ':p0881asynctaskresult', ':p0891asynctaskcancel'
