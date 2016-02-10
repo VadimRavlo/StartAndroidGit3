@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncTaskStatus</string>
+    <string name="start">Start</string>
+    <string name="status">Status</string>
+    <string name="begin_bkgrd_thread">Begin background thread</string>
+    <string name="end_bkgrd_thread">End background thread</string>
+    <string name="cancel_bkgrd_thread">Cancel background thread</string>
+</resources>
