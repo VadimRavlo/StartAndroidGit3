@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0901asynctaskstatus/p0901asynctaskstatus.iml" filepath="$PROJECT_DIR$/p0901asynctaskstatus/p0901asynctaskstatus.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0911asynctaskrotate/p0911asynctaskrotate.iml" filepath="$PROJECT_DIR$/p0911asynctaskrotate/p0911asynctaskrotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0921servicesimple/p0921servicesimple.iml" filepath="$PROJECT_DIR$/p0921servicesimple/p0921servicesimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0931servicestop/p0931servicestop.iml" filepath="$PROJECT_DIR$/p0931servicestop/p0931servicestop.iml" />
     </modules>
   </component>
 </project>
