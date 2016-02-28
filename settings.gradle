@@ -1,1 +1,2 @@
-include ':app', ':p0441simplelistevents', ':p0451expandablelist', ':p0461expendablelistevent', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0871asynctaskparams', ':p0881asynctaskresult', ':p0891asynctaskcancel', ':p0901asynctaskstatus', ':p0911asynctaskrotate', ':p0921servicesimple', ':p0931servicestop', ':p0941servicekillclient'
+include ':app', ':p0441simplelistevents', ':p0451expandablelist', ':p0461expendablelistevent', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0871asynctaskparams', ':p0881asynctaskresult', ':p0891asynctaskcancel', ':p0901asynctaskstatus', ':p0911asynctaskrotate', ':p0921servicesimple', ':p0931servicestop', ':p0941servicekillclient', ':p0942servicekillserver'
+
