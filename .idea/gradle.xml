@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/p0931servicestop" />
             <option value="$PROJECT_DIR$/p0941servicekillclient" />
             <option value="$PROJECT_DIR$/p0942servicekillserver" />
+            <option value="$PROJECT_DIR$/p0951servicebackpendingintent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
