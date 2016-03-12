@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+    <Button
+        style="@style/buttonStyle"
+        android:id="@+id/btn_start"
+        android:text="@string/btn_start"
+        android:onClick="onClickStart"/>
+    <Button
+        style="@style/buttonStyle"
+        android:id="@+id/btn_stop"
+        android:text="@string/btn_stop"
+        android:onClick="onClickStop"/>
+    <Button
+        style="@style/buttonStyle"
+        android:id="@+id/btn_bind"
+        android:text="@string/btn_bind"
+        android:onClick="onClickBind"/>
+    <Button
+        style="@style/buttonStyle"
+        android:id="@+id/btn_unbind"
+        android:text="@string/btn_unbind"
+        android:onClick="onClickUnbind"/>
+</LinearLayout>
