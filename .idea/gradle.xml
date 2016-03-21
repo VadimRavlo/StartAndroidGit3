@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/p0961servicebackbroadcast" />
             <option value="$PROJECT_DIR$/p0971servicebindclient" />
             <option value="$PROJECT_DIR$/p0972servicebindserver" />
+            <option value="$PROJECT_DIR$/p0981servicebindinglocal" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
